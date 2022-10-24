@@ -28,14 +28,14 @@
             android:id="@+id/bottomBar"
             android:layout_width="match_parent"
             android:layout_height="56dp"
-            app:backgroundColor="@color/colorPrimary"
+            app:backgroundColor="@color/black"
             app:iconMargin="8dp"
             app:iconSize="24dp"
             app:indicatorRadius="15dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            android:background="@color/colorPrimary"
+            android:background="@color/black"
             app:menu="@menu/buttom_nav" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

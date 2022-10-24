@@ -47,7 +47,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorBlue"
                 android:textStyle="bold"
                 android:textSize="22sp"
                 android:text="Shop By Category" />
@@ -80,7 +80,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorBlue"
                 android:textStyle="bold"
                 android:textSize="22sp"
                 android:text="Shop By product" />

@@ -15,7 +15,7 @@ import com.google.firebase.ktx.Firebase
 
 
 class MoreFragment : Fragment() {
-lateinit var binding:FragmentMoreBinding
+lateinit var binding: FragmentMoreBinding
 lateinit var list:ArrayList<AllOrderModel>
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

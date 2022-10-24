@@ -29,6 +29,7 @@ import com.google.firebase.auth.FirebaseAuth
          val navHostFragment = supportFragmentManager.findFragmentById(R.id.fragmentContainer)
          val navController = navHostFragment!!.findNavController()
 
+
          val popupMenu = PopupMenu(this, null)
          popupMenu.inflate(R.menu.buttom_nav)
          binding.bottomBar.setupWithNavController(popupMenu.menu, navController)
